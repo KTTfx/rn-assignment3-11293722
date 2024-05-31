@@ -1,5 +1,5 @@
 
-**Task Management App (React Native)**
+##Task Management App (React Native)##
 
 This React Native app empowers you to manage your tasks efficiently. It provides a user-friendly interface for:
 
@@ -21,6 +21,6 @@ Data:
 **Extended Feature:**
 Mark Tasks Complete: Users can check off tasks as they're finished, providing a sense of accomplishment and helping track progress.
 
-**Screenshots**
-[Imagen of A task management app with categories, ongoing tasks, search bar, and profile picture](./ToDo_App/assets/Home.jpg)
-[Imagen of A task management app with categories, ongoing tasks, search bar, and profile picture](./ToDo_App/assets/Home2.jpg)
+##Screenshots##
+[Imagen of A task management app with categories, ongoing tasks, search bar, and profile picture](Home.jpg)
+[Imagen of A task management app with categories, ongoing tasks, search bar, and profile picture](Home2.jpg)
