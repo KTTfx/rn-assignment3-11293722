@@ -1,5 +1,5 @@
 
-##Task Management App (React Native)
+## Task Management App (React Native)
 
 This React Native app empowers you to manage your tasks efficiently. It provides a user-friendly interface for:
 
@@ -8,7 +8,7 @@ This React Native app empowers you to manage your tasks efficiently. It provides
 * **Search Functionality:** Quickly find specific tasks using the built-in search bar.
 * **Profile Management:** Personalize your app experience with a profile picture.
 
-##Requirements:
+## Requirements:
 
 Node.js & npm (or yarn)
 React Native development environment
@@ -18,10 +18,9 @@ Clone the repo & install dependencies (refer to full instructions for details).
 Run the app on Android or iOS (refer to full instructions for commands).
 Data:
 
-##Extended Feature:
+## Extended Feature:
 Mark Tasks Complete: Users can check off tasks as they're finished, providing a sense of accomplishment and helping track progress.
 
-##Screenshots
+## Screenshots
 
 -![FrontPage](Home.jpg)
--![Lower front page](Home2.jpg)
